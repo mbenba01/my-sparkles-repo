@@ -1,3 +1,1 @@
-# lab-starter-template
-
-Mustapha Benbaziz
+# Mustapha Benbaziz
